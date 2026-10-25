@@ -1,15 +1,26 @@
-<!doctype html>
-<html lang="id">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Tumpuk</title>
-</head>
-<body>
-  <main>
-    <h1>Tumpuk</h1>
-    <p id="status">Memuat...</p>
-  </main>
-  <script src="main.js"></script>
-</body>
+<!DOCTYPE HTML>
+	<head>
+		<meta charset="utf-8"/>
+		<title>melonJS Game</title>
+		<link rel="stylesheet" type="text/css" media="screen" href="index.css">
+		<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<meta name="mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	</head>
+	<body>
+		<!-- Canvas placeholder -->
+		<div id="screen"></div>
+
+		<!-- Plugin(s) -->
+
+		<script type="module">
+			import { device } from './dist/melonjs.module.js';
+			import onload from './index.js';
+
+			device.onReady(async () => {
+				await onload();
+			});
+		</script>
+
+	</body>
 </html>

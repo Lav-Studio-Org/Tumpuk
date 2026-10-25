@@ -1,36 +1,27 @@
-# Tumpuk 📦
+# Tumpuk — Web Build
 
-> Sedikit demi sedikit, lama-lama jadi tumpukan.
+This folder contains the web assets extracted from the Android APK's bundled `assets/www/` directory.
 
-**Tumpuk** is a project by [Lav Studio](https://github.com/Lav-Studio-Org). The repository is currently at an early stage: its purpose, feature set, and implementation have not been documented yet.
+## Run locally
 
-## Project status
+Serve this folder over HTTP (ES modules and game assets should not be opened directly with `file://`):
 
-This repository currently contains the project README. No application source code, dependency manifest, or runnable setup has been identified, so there are no verified installation or run instructions yet.
+```bash
+python -m http.server 8000
+```
 
-## Roadmap
+Then open <http://localhost:8000/>.
 
-- [x] Create the repository
-- [x] Add initial project documentation
-- [ ] Define the project's purpose and scope
-- [ ] Add the initial implementation
-- [ ] Document installation and usage
-- [ ] Add tests and contribution guidelines as the project grows
+## Publish with GitHub Pages
 
-## Getting started
+1. Create a repository named `Tumpuk`.
+2. Upload the contents of this folder to the repository root (so `index.html` is at the root).
+3. In **Settings → Pages**, select **Deploy from a branch**, choose `main` and `/(root)`, then save.
+4. The project site will use a URL like `https://OWNER.github.io/Tumpuk/`.
 
-There is no runnable application or setup process documented yet. This section can be updated once the project technology stack and entry point are established.
+The project uses relative paths, which is suitable for a GitHub Pages project site under `/Tumpuk/`.
 
-## Contributing
+## Notes
 
-Ideas and contributions are welcome. Before contributing code, please open an issue or discussion to align on the project's direction.
-
-## About
-
-Tumpuk is part of the [Lav Studio organization](https://github.com/Lav-Studio-Org).
-
----
-
-<p align="center">
-  <b>Keep calm and keep stacking. 📚</b>
-</p>
+- This is the web payload packaged inside the APK, not a decompiled reconstruction of the Android app's Java/Kotlin source.
+- Test the game after publishing, especially audio playback and any runtime asset paths.
