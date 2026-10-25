@@ -2,38 +2,35 @@
 
 > Sedikit demi sedikit, lama-lama jadi tumpukan.
 
-Selamat datang di **Tumpuk** — sebuah project yang saat ini sedang mengumpulkan potensi, baris kode, dan alasan untuk tidak tidur terlalu malam.
+**Tumpuk** is a project by [Lav Studio](https://github.com/Lav-Studio-Org). The repository is currently at an early stage: its purpose, feature set, and implementation have not been documented yet.
 
-## 🤔 Ini project apa?
+## Project status
 
-Pertanyaan bagus.
+This repository currently contains the project README. No application source code, dependency manifest, or runnable setup has been identified, so there are no verified installation or run instructions yet.
 
-Untuk sekarang, kita mulai dari README dulu. Fitur-fitur keren akan menyusul setelah ide, kopi, dan keberanian terkumpul.
+## Roadmap
 
-## 🗺️ Roadmap
+- [x] Create the repository
+- [x] Add initial project documentation
+- [ ] Define the project's purpose and scope
+- [ ] Add the initial implementation
+- [ ] Document installation and usage
+- [ ] Add tests and contribution guidelines as the project grows
 
-- [x] Membuat repository
-- [x] Menambahkan README biar nggak kosong melompong
-- [ ] Menentukan project ini sebenarnya mau ngapain
-- [ ] Menulis kode pertama
-- [ ] Bilang "bentar, refactor dikit" lalu menghilang 3 jam
+## Getting started
 
-## 🚀 Cara menjalankan
+There is no runnable application or setup process documented yet. This section can be updated once the project technology stack and entry point are established.
 
-Belum ada yang bisa dijalankan. Ini bukan bug — ini *minimalism*.
+## Contributing
 
-## 🤝 Kontribusi
+Ideas and contributions are welcome. Before contributing code, please open an issue or discussion to align on the project's direction.
 
-Punya ide? Silakan bawa.
+## About
 
-Punya kode? Lebih silakan lagi.
-
-Punya kopi? Prioritas utama.
+Tumpuk is part of the [Lav Studio organization](https://github.com/Lav-Studio-Org).
 
 ---
 
 <p align="center">
-  Made with questionable planning and optimistic energy.
-  <br />
   <b>Keep calm and keep stacking. 📚</b>
 </p>
