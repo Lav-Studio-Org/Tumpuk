@@ -1,0 +1,90 @@
+{
+	"frames": [
+		{
+			"filename": "prev",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 1008,
+				"h": 1560
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1008,
+				"h": 1560
+			},
+			"sourceSize": {
+				"w": 1008,
+				"h": 1560
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "sign",
+			"frame": {
+				"x": 0,
+				"y": 1562,
+				"w": 604,
+				"h": 340
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 604,
+				"h": 340
+			},
+			"sourceSize": {
+				"w": 604,
+				"h": 340
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "worldMap",
+			"frame": {
+				"x": 0,
+				"y": 1904,
+				"w": 941,
+				"h": 1672
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 941,
+				"h": 1672
+			},
+			"sourceSize": {
+				"w": 941,
+				"h": 1672
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	],
+	"meta": {
+		"app": "MelonPacker",
+		"version": "1.3.0",
+		"image": "texture_image_0.webp",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1024,
+			"h": 4096
+		},
+		"scale": "1"
+	}
+}

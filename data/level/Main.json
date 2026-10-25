@@ -1,0 +1,165 @@
+{
+	"type": "map",
+	"height": 30,
+	"width": 17,
+	"tilewidth": 32,
+	"tileheight": 32,
+	"infinite": false,
+	"nextobjectid": 1,
+	"orientation": "orthogonal",
+	"renderorder": "right-down",
+	"editor": "melon-editor",
+	"tilesets": [],
+	"layers": [
+		{
+			"name": "menuBG",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"objects": [
+				{
+					"name": "spriteTP",
+					"x": 272,
+					"y": 621.148,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 0.888,
+							"y": 0.888
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": null
+					},
+					"properties": {
+						"anchorPoint": "json:{\"x\":0,\"y\":0}",
+						"region": "menuBG",
+						"texture": "Level_Home"
+					},
+					"propertytypes": {
+						"anchorPoint": "string",
+						"region": "string",
+						"texture": "string"
+					},
+					"__melonEditorLayerName": "menuBG"
+				}
+			]
+		},
+		{
+			"name": "loadingAudio",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "loadingAudio",
+					"x": 787,
+					"y": 123,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": ""
+					},
+					"properties": {},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "loadingAudio"
+				}
+			]
+		},
+		{
+			"name": "homeUI",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "homeUI",
+					"x": 0,
+					"y": -960,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": 0
+					},
+					"properties": {},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "homeUI"
+				}
+			]
+		},
+		{
+			"name": "hangTitle",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "hangTitle",
+					"x": 78.257,
+					"y": -87,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": 0
+					},
+					"properties": {},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "hangTitle"
+				}
+			]
+		}
+	]
+}

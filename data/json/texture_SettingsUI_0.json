@@ -1,0 +1,115 @@
+{
+	"frames": [
+		{
+			"filename": "settingsBG",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 561,
+				"h": 663
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 561,
+				"h": 663
+			},
+			"sourceSize": {
+				"w": 561,
+				"h": 663
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "slider bg",
+			"frame": {
+				"x": 563,
+				"y": 0,
+				"w": 345,
+				"h": 46
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 345,
+				"h": 46
+			},
+			"sourceSize": {
+				"w": 345,
+				"h": 46
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "slider knob",
+			"frame": {
+				"x": 0,
+				"y": 665,
+				"w": 115,
+				"h": 115
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 115,
+				"h": 115
+			},
+			"sourceSize": {
+				"w": 115,
+				"h": 115
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "slider value",
+			"frame": {
+				"x": 117,
+				"y": 665,
+				"w": 345,
+				"h": 46
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 345,
+				"h": 46
+			},
+			"sourceSize": {
+				"w": 345,
+				"h": 46
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	],
+	"meta": {
+		"app": "MelonPacker",
+		"version": "1.3.0",
+		"image": "texture_SettingsUI_0.webp",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1024,
+			"h": 1024
+		},
+		"scale": "1"
+	}
+}

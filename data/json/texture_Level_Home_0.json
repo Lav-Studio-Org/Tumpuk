@@ -1,0 +1,115 @@
+{
+	"frames": [
+		{
+			"filename": "hangTitle",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 1254,
+				"h": 1254
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 1254,
+				"h": 1254
+			},
+			"sourceSize": {
+				"w": 1254,
+				"h": 1254
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "homeBG",
+			"frame": {
+				"x": 1256,
+				"y": 0,
+				"w": 540,
+				"h": 960
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 540,
+				"h": 960
+			},
+			"sourceSize": {
+				"w": 540,
+				"h": 960
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "menuBG",
+			"frame": {
+				"x": 1798,
+				"y": 0,
+				"w": 941,
+				"h": 1672
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 941,
+				"h": 1672
+			},
+			"sourceSize": {
+				"w": 941,
+				"h": 1672
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "play button",
+			"frame": {
+				"x": 0,
+				"y": 1674,
+				"w": 2172,
+				"h": 724
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 2172,
+				"h": 724
+			},
+			"sourceSize": {
+				"w": 2172,
+				"h": 724
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	],
+	"meta": {
+		"app": "MelonPacker",
+		"version": "1.3.0",
+		"image": "texture_Level_Home_0.webp",
+		"format": "RGBA8888",
+		"size": {
+			"w": 4096,
+			"h": 4096
+		},
+		"scale": "1"
+	}
+}

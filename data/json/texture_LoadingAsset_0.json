@@ -1,0 +1,165 @@
+{
+	"frames": [
+		{
+			"filename": "coin",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 99,
+				"h": 99
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 99,
+				"h": 99
+			},
+			"sourceSize": {
+				"w": 99,
+				"h": 99
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "coinBar",
+			"frame": {
+				"x": 101,
+				"y": 0,
+				"w": 434,
+				"h": 145
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 434,
+				"h": 145
+			},
+			"sourceSize": {
+				"w": 434,
+				"h": 145
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "coinBarFront",
+			"frame": {
+				"x": 537,
+				"y": 0,
+				"w": 68,
+				"h": 77
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 68,
+				"h": 77
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 77
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "loadingBG",
+			"frame": {
+				"x": 0,
+				"y": 272,
+				"w": 540,
+				"h": 960
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 540,
+				"h": 960
+			},
+			"sourceSize": {
+				"w": 540,
+				"h": 960
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "loadingBar",
+			"frame": {
+				"x": 607,
+				"y": 0,
+				"w": 25,
+				"h": 270
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 25,
+				"h": 270
+			},
+			"sourceSize": {
+				"w": 25,
+				"h": 270
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "logoGame",
+			"frame": {
+				"x": 542,
+				"y": 272,
+				"w": 462,
+				"h": 308
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 462,
+				"h": 308
+			},
+			"sourceSize": {
+				"w": 462,
+				"h": 308
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	],
+	"meta": {
+		"app": "MelonPacker",
+		"version": "1.3.0",
+		"image": "texture_LoadingAsset_0.webp",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1024,
+			"h": 2048
+		},
+		"scale": "1"
+	}
+}

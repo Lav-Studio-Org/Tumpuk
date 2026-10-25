@@ -1,0 +1,315 @@
+{
+	"frames": [
+		{
+			"filename": "Boneka Misterius",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 237,
+				"h": 295
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 237,
+				"h": 295
+			},
+			"sourceSize": {
+				"w": 237,
+				"h": 295
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "Genderuwo",
+			"frame": {
+				"x": 239,
+				"y": 0,
+				"w": 342,
+				"h": 330
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 342,
+				"h": 330
+			},
+			"sourceSize": {
+				"w": 342,
+				"h": 330
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "Jimat",
+			"frame": {
+				"x": 583,
+				"y": 0,
+				"w": 307,
+				"h": 293
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 307,
+				"h": 293
+			},
+			"sourceSize": {
+				"w": 307,
+				"h": 293
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "Kunang-kunang",
+			"frame": {
+				"x": 0,
+				"y": 332,
+				"w": 282,
+				"h": 252
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 282,
+				"h": 252
+			},
+			"sourceSize": {
+				"w": 282,
+				"h": 252
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "Lentera Tua",
+			"frame": {
+				"x": 638,
+				"y": 332,
+				"w": 202,
+				"h": 310
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 202,
+				"h": 310
+			},
+			"sourceSize": {
+				"w": 202,
+				"h": 310
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "Lilin",
+			"frame": {
+				"x": 0,
+				"y": 694,
+				"w": 211,
+				"h": 284
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 211,
+				"h": 284
+			},
+			"sourceSize": {
+				"w": 211,
+				"h": 284
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "Misteri",
+			"frame": {
+				"x": 0,
+				"y": 980,
+				"w": 941,
+				"h": 1672
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 941,
+				"h": 1672
+			},
+			"sourceSize": {
+				"w": 941,
+				"h": 1672
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "Pohon Beringin",
+			"frame": {
+				"x": 199,
+				"y": 2654,
+				"w": 582,
+				"h": 439
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 582,
+				"h": 439
+			},
+			"sourceSize": {
+				"w": 582,
+				"h": 439
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "Topeng Misterius",
+			"frame": {
+				"x": 0,
+				"y": 3095,
+				"w": 306,
+				"h": 239
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 306,
+				"h": 239
+			},
+			"sourceSize": {
+				"w": 306,
+				"h": 239
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "Tuyul",
+			"frame": {
+				"x": 308,
+				"y": 3095,
+				"w": 231,
+				"h": 281
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 231,
+				"h": 281
+			},
+			"sourceSize": {
+				"w": 231,
+				"h": 281
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "kunti",
+			"frame": {
+				"x": 284,
+				"y": 332,
+				"w": 352,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 352,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 352,
+				"h": 360
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "pocong",
+			"frame": {
+				"x": 0,
+				"y": 2654,
+				"w": 197,
+				"h": 296
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 197,
+				"h": 296
+			},
+			"sourceSize": {
+				"w": 197,
+				"h": 296
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	],
+	"meta": {
+		"app": "MelonPacker",
+		"version": "1.3.0",
+		"image": "texture_Misteri_0.webp",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1024,
+			"h": 4096
+		},
+		"scale": "1"
+	}
+}

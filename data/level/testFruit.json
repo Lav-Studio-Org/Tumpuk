@@ -1,0 +1,139 @@
+{
+	"type": "map",
+	"height": 30,
+	"width": 17,
+	"tilewidth": 32,
+	"tileheight": 32,
+	"infinite": false,
+	"nextobjectid": 1,
+	"orientation": "orthogonal",
+	"renderorder": "right-down",
+	"backgroundcolor": "#ffffff",
+	"editor": "melon-editor",
+	"tilesets": [],
+	"layers": [
+		{
+			"name": "Pineapple",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "Pineapple",
+					"x": 356,
+					"y": 156,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": 0
+					},
+					"properties": {
+						"image": "pineapple"
+					},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "Pineapple"
+				}
+			]
+		},
+		{
+			"name": "collision",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"type": "rect",
+					"x": -90.7421061933203,
+					"y": 921.6770121803206,
+					"width": 672,
+					"height": 46,
+					"rotation": 0,
+					"visible": true,
+					"name": "collisionTP",
+					"properties": [
+						{
+							"name": "collisionType",
+							"type": "string",
+							"value": "WORLD_SHAPE"
+						}
+					]
+				},
+				{
+					"type": "rect",
+					"x": 568.7747803744326,
+					"y": 212.77718431162566,
+					"width": 66,
+					"height": 770,
+					"rotation": 0,
+					"visible": true,
+					"name": "collisionTP",
+					"properties": [
+						{
+							"name": "collisionType",
+							"type": "string",
+							"value": "WORLD_SHAPE"
+						}
+					]
+				},
+				{
+					"type": "rect",
+					"x": -153.22521962556743,
+					"y": 259.77718431162566,
+					"width": 112,
+					"height": 724,
+					"rotation": 0,
+					"visible": true,
+					"name": "collisionTP",
+					"properties": [
+						{
+							"name": "collisionType",
+							"type": "string",
+							"value": "WORLD_SHAPE"
+						}
+					]
+				},
+				{
+					"type": "polyline",
+					"x": 110.77478037443257,
+					"y": 508.77718431162566,
+					"polyline": [
+						{
+							"x": 0,
+							"y": 0
+						},
+						{
+							"x": 13,
+							"y": -192
+						}
+					],
+					"name": "collisionTP",
+					"properties": [
+						{
+							"name": "collisionType",
+							"type": "string",
+							"value": "WORLD_SHAPE"
+						}
+					]
+				}
+			]
+		}
+	]
+}

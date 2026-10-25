@@ -1,0 +1,405 @@
+{
+	"type": "map",
+	"height": 1,
+	"width": 1,
+	"tilewidth": 1059.566,
+	"tileheight": 1882.672,
+	"infinite": false,
+	"nextobjectid": 1,
+	"orientation": "orthogonal",
+	"renderorder": "right-down",
+	"editor": "melon-editor",
+	"tilesets": [],
+	"layers": [
+		{
+			"name": "mapFloat",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "mapFloat",
+					"x": 530,
+					"y": 941,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1.126,
+							"y": 1.126
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": ""
+					},
+					"properties": {
+						"image": "worldMap"
+					},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "mapFloat"
+				}
+			]
+		},
+		{
+			"name": "mapSign",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "mapSign",
+					"x": 189,
+					"y": 454,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": ""
+					},
+					"properties": {
+						"level": "1"
+					},
+					"propertytypes": {
+						"level": "number"
+					},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "mapSign"
+				}
+			]
+		},
+		{
+			"name": "mapSign",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "mapSign",
+					"x": 692,
+					"y": 505,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": ""
+					},
+					"properties": {
+						"level": "2"
+					},
+					"propertytypes": {
+						"level": "number"
+					},
+					"duplicateID": 2,
+					"__melonEditorLayerName": "mapSign"
+				}
+			]
+		},
+		{
+			"name": "mapSign",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "mapSign",
+					"x": 227,
+					"y": 668,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": ""
+					},
+					"properties": {
+						"level": "3"
+					},
+					"propertytypes": {
+						"level": "number"
+					},
+					"duplicateID": 3,
+					"__melonEditorLayerName": "mapSign"
+				}
+			]
+		},
+		{
+			"name": "mapSign",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "mapSign",
+					"x": 704,
+					"y": 901,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": ""
+					},
+					"properties": {
+						"level": "4"
+					},
+					"propertytypes": {
+						"level": "number"
+					},
+					"duplicateID": 4,
+					"__melonEditorLayerName": "mapSign"
+				}
+			]
+		},
+		{
+			"name": "mapSign",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "mapSign",
+					"x": 244,
+					"y": 1223,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": ""
+					},
+					"properties": {
+						"level": "5"
+					},
+					"propertytypes": {
+						"level": "number"
+					},
+					"duplicateID": 5,
+					"__melonEditorLayerName": "mapSign"
+				}
+			]
+		},
+		{
+			"name": "mapSign",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "mapSign",
+					"x": 635,
+					"y": 1432,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": ""
+					},
+					"properties": {
+						"level": "6"
+					},
+					"propertytypes": {
+						"level": "number"
+					},
+					"duplicateID": 6,
+					"__melonEditorLayerName": "mapSign"
+				}
+			]
+		},
+		{
+			"name": "mapSign",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "mapSign",
+					"x": 381,
+					"y": 1725,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": ""
+					},
+					"properties": {
+						"level": "7"
+					},
+					"propertytypes": {
+						"level": "number"
+					},
+					"duplicateID": 7,
+					"__melonEditorLayerName": "mapSign"
+				}
+			]
+		},
+		{
+			"name": "coinBar",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "coinBar",
+					"x": 0,
+					"y": 0,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": ""
+					},
+					"properties": {},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "coinBar"
+				}
+			]
+		},
+		{
+			"name": "loadingAudio",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "loadingAudio",
+					"x": -48,
+					"y": 108,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": ""
+					},
+					"properties": {},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "loadingAudio"
+				}
+			]
+		}
+	]
+}

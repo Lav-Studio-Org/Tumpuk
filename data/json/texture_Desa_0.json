@@ -1,0 +1,315 @@
+{
+	"frames": [
+		{
+			"filename": "Desa",
+			"frame": {
+				"x": 0,
+				"y": 329,
+				"w": 941,
+				"h": 1672
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 941,
+				"h": 1672
+			},
+			"sourceSize": {
+				"w": 941,
+				"h": 1672
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "Kipas Angin",
+			"frame": {
+				"x": 671,
+				"y": 2003,
+				"w": 235,
+				"h": 338
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 235,
+				"h": 338
+			},
+			"sourceSize": {
+				"w": 235,
+				"h": 338
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "Layangan",
+			"frame": {
+				"x": 273,
+				"y": 2353,
+				"w": 324,
+				"h": 345
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 324,
+				"h": 345
+			},
+			"sourceSize": {
+				"w": 324,
+				"h": 345
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "Sandal Jepit",
+			"frame": {
+				"x": 287,
+				"y": 2728,
+				"w": 269,
+				"h": 293
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 269,
+				"h": 293
+			},
+			"sourceSize": {
+				"w": 269,
+				"h": 293
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "angkot",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 493,
+				"h": 327
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 493,
+				"h": 327
+			},
+			"sourceSize": {
+				"w": 493,
+				"h": 327
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "bola",
+			"frame": {
+				"x": 495,
+				"y": 0,
+				"w": 230,
+				"h": 236
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 230,
+				"h": 236
+			},
+			"sourceSize": {
+				"w": 230,
+				"h": 236
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "ember",
+			"frame": {
+				"x": 0,
+				"y": 2003,
+				"w": 222,
+				"h": 243
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 222,
+				"h": 243
+			},
+			"sourceSize": {
+				"w": 222,
+				"h": 243
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "gerobak2",
+			"frame": {
+				"x": 224,
+				"y": 2003,
+				"w": 445,
+				"h": 348
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 445,
+				"h": 348
+			},
+			"sourceSize": {
+				"w": 445,
+				"h": 348
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "kursi",
+			"frame": {
+				"x": 0,
+				"y": 2353,
+				"w": 271,
+				"h": 343
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 271,
+				"h": 343
+			},
+			"sourceSize": {
+				"w": 271,
+				"h": 343
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "motor",
+			"frame": {
+				"x": 599,
+				"y": 2353,
+				"w": 374,
+				"h": 373
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 374,
+				"h": 373
+			},
+			"sourceSize": {
+				"w": 374,
+				"h": 373
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "radio",
+			"frame": {
+				"x": 0,
+				"y": 2728,
+				"w": 285,
+				"h": 296
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 285,
+				"h": 296
+			},
+			"sourceSize": {
+				"w": 285,
+				"h": 296
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "sepeda",
+			"frame": {
+				"x": 558,
+				"y": 2728,
+				"w": 435,
+				"h": 340
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 435,
+				"h": 340
+			},
+			"sourceSize": {
+				"w": 435,
+				"h": 340
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	],
+	"meta": {
+		"app": "MelonPacker",
+		"version": "1.3.0",
+		"image": "texture_Desa_0.webp",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1024,
+			"h": 4096
+		},
+		"scale": "1"
+	}
+}

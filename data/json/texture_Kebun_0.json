@@ -1,0 +1,315 @@
+{
+	"frames": [
+		{
+			"filename": "Kebun",
+			"frame": {
+				"x": 0,
+				"y": 843,
+				"w": 941,
+				"h": 1672
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 941,
+				"h": 1672
+			},
+			"sourceSize": {
+				"w": 941,
+				"h": 1672
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "apple",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 237,
+				"h": 260
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 237,
+				"h": 260
+			},
+			"sourceSize": {
+				"w": 237,
+				"h": 260
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "cherry",
+			"frame": {
+				"x": 239,
+				"y": 0,
+				"w": 153,
+				"h": 177
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 153,
+				"h": 177
+			},
+			"sourceSize": {
+				"w": 153,
+				"h": 177
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "coconut",
+			"frame": {
+				"x": 394,
+				"y": 0,
+				"w": 269,
+				"h": 311
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 269,
+				"h": 311
+			},
+			"sourceSize": {
+				"w": 269,
+				"h": 311
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "durian",
+			"frame": {
+				"x": 0,
+				"y": 313,
+				"w": 405,
+				"h": 528
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 405,
+				"h": 528
+			},
+			"sourceSize": {
+				"w": 405,
+				"h": 528
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "mango",
+			"frame": {
+				"x": 0,
+				"y": 2517,
+				"w": 216,
+				"h": 282
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 216,
+				"h": 282
+			},
+			"sourceSize": {
+				"w": 216,
+				"h": 282
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "melon",
+			"frame": {
+				"x": 218,
+				"y": 2517,
+				"w": 275,
+				"h": 328
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 275,
+				"h": 328
+			},
+			"sourceSize": {
+				"w": 275,
+				"h": 328
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "orange",
+			"frame": {
+				"x": 495,
+				"y": 2517,
+				"w": 223,
+				"h": 227
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 223,
+				"h": 227
+			},
+			"sourceSize": {
+				"w": 223,
+				"h": 227
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "pear",
+			"frame": {
+				"x": 720,
+				"y": 2517,
+				"w": 229,
+				"h": 270
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 229,
+				"h": 270
+			},
+			"sourceSize": {
+				"w": 229,
+				"h": 270
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "pineapple",
+			"frame": {
+				"x": 0,
+				"y": 2847,
+				"w": 234,
+				"h": 432
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 234,
+				"h": 432
+			},
+			"sourceSize": {
+				"w": 234,
+				"h": 432
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "strawberry",
+			"frame": {
+				"x": 236,
+				"y": 2847,
+				"w": 184,
+				"h": 211
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 184,
+				"h": 211
+			},
+			"sourceSize": {
+				"w": 184,
+				"h": 211
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		{
+			"filename": "watermelon",
+			"frame": {
+				"x": 422,
+				"y": 2847,
+				"w": 305,
+				"h": 365
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 305,
+				"h": 365
+			},
+			"sourceSize": {
+				"w": 305,
+				"h": 365
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	],
+	"meta": {
+		"app": "MelonPacker",
+		"version": "1.3.0",
+		"image": "texture_Kebun_0.webp",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1024,
+			"h": 4096
+		},
+		"scale": "1"
+	}
+}

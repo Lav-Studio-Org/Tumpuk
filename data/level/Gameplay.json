@@ -1,0 +1,531 @@
+{
+	"type": "map",
+	"height": 30,
+	"width": 16.875,
+	"tilewidth": 32,
+	"tileheight": 32,
+	"infinite": false,
+	"nextobjectid": 1,
+	"orientation": "orthogonal",
+	"renderorder": "right-down",
+	"editor": "melon-editor",
+	"tilesets": [],
+	"layers": [
+		{
+			"name": "gameplayBG",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "gameplayBG",
+					"x": 270,
+					"y": 480,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 0.787,
+							"y": 0.787
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": 0
+					},
+					"properties": {
+						"image": "Misteri"
+					},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "gameplayBG"
+				}
+			]
+		},
+		{
+			"name": "gameContainer",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "gameContainer",
+					"x": 270,
+					"y": 626,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 0.332,
+							"y": 0.387
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": 0
+					},
+					"properties": {
+						"image": "suikaContainer"
+					},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "gameContainer"
+				}
+			]
+		},
+		{
+			"name": "gameContainer_1",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "gameContainerFront",
+					"x": 270,
+					"y": 626,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 0.332,
+							"y": 0.387
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": 500
+					},
+					"properties": {
+						"image": "suikaContainerFront"
+					},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "gameContainer_1"
+				}
+			]
+		},
+		{
+			"name": "suikaSpawner",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "suikaSpawner",
+					"x": 270,
+					"y": 348,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 0.06,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": 0
+					},
+					"properties": {},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "suikaSpawner"
+				}
+			]
+		},
+		{
+			"name": "evolutionBar",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "evolutionBar",
+					"x": 30,
+					"y": -83,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": 0
+					},
+					"properties": {},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "evolutionBar"
+				}
+			]
+		},
+		{
+			"name": "gameplayUI",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "gameplayUI",
+					"x": -4,
+					"y": 2,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": ""
+					},
+					"properties": {},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "gameplayUI"
+				}
+			]
+		},
+		{
+			"name": "dangerLine",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "dangerLine",
+					"x": 80,
+					"y": 300,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 5.101
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": 200
+					},
+					"properties": {},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "dangerLine"
+				}
+			]
+		},
+		{
+			"name": "suikaWhooshPushUp",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "suikaWhooshPushUp",
+					"x": 270,
+					"y": 970.5636667846902,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": 999
+					},
+					"properties": {},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "suikaWhooshPushUp"
+				}
+			]
+		},
+		{
+			"name": "suikaWhooshPushRight",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "suikaWhooshPushRight",
+					"x": -57.5116048417658,
+					"y": 620.0102285894061,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": 999
+					},
+					"properties": {},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "suikaWhooshPushRight"
+				}
+			]
+		},
+		{
+			"name": "suikaWhooshPushLeft",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "suikaWhooshPushLeft",
+					"x": 582.1397176618983,
+					"y": 608.9605896210127,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": 999
+					},
+					"properties": {},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "suikaWhooshPushLeft"
+				}
+			]
+		},
+		{
+			"name": "collision",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"type": "rect",
+					"x": -8.361329197275353,
+					"y": 857.5014735331844,
+					"width": 554,
+					"height": 105,
+					"rotation": 0,
+					"visible": true,
+					"name": "collisionTP",
+					"properties": [
+						{
+							"name": "collisionType",
+							"type": "string",
+							"value": "WORLD_SHAPE"
+						}
+					]
+				},
+				{
+					"type": "rect",
+					"x": -2,
+					"y": 252,
+					"width": 95,
+					"height": 609,
+					"rotation": 0,
+					"visible": true,
+					"name": "collisionTP",
+					"properties": [
+						{
+							"name": "collisionType",
+							"type": "string",
+							"value": "WORLD_SHAPE"
+						}
+					]
+				},
+				{
+					"type": "rect",
+					"x": 449,
+					"y": 255,
+					"width": 107,
+					"height": 606,
+					"rotation": 0,
+					"visible": true,
+					"name": "collisionTP",
+					"properties": [
+						{
+							"name": "collisionType",
+							"type": "string",
+							"value": "WORLD_SHAPE"
+						}
+					]
+				},
+				{
+					"type": "polygon",
+					"x": 78.85706673575626,
+					"y": 809.6612587153452,
+					"polygon": [
+						{
+							"x": 0,
+							"y": 0
+						},
+						{
+							"x": 45.99999999999997,
+							"y": 51
+						},
+						{
+							"x": 2,
+							"y": 51
+						}
+					],
+					"name": "collisionTP",
+					"properties": [
+						{
+							"name": "collisionType",
+							"type": "string",
+							"value": "WORLD_SHAPE"
+						}
+					]
+				},
+				{
+					"type": "polygon",
+					"x": 462.4555591157975,
+					"y": 861.248314350629,
+					"polygon": [
+						{
+							"x": 0,
+							"y": 0
+						},
+						{
+							"x": -2,
+							"y": -46
+						},
+						{
+							"x": -53,
+							"y": -2
+						}
+					],
+					"name": "collisionTP",
+					"properties": [
+						{
+							"name": "collisionType",
+							"type": "string",
+							"value": "WORLD_SHAPE"
+						}
+					]
+				},
+				{
+					"type": "rect",
+					"x": 76.5,
+					"y": 171.5,
+					"width": 385,
+					"height": 87,
+					"rotation": 0,
+					"visible": true,
+					"name": "collisionTP",
+					"properties": [
+						{
+							"name": "collisionType",
+							"type": "string",
+							"value": "WORLD_SHAPE"
+						}
+					]
+				},
+				{
+					"type": "rect",
+					"x": -7.53526814297166,
+					"y": 855.7579619987825,
+					"width": 572,
+					"height": 126,
+					"rotation": 0,
+					"visible": true,
+					"name": "collisionTP",
+					"properties": [
+						{
+							"name": "collisionType",
+							"type": "string",
+							"value": "WORLD_SHAPE"
+						}
+					]
+				}
+			]
+		}
+	]
+}

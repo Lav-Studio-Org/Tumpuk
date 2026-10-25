@@ -1,0 +1,173 @@
+{
+	"type": "map",
+	"height": 30,
+	"width": 16.875,
+	"tilewidth": 32,
+	"tileheight": 32,
+	"infinite": false,
+	"nextobjectid": 1,
+	"orientation": "orthogonal",
+	"renderorder": "right-down",
+	"backgroundcolor": "#000000",
+	"editor": "melon-editor",
+	"tilesets": [],
+	"layers": [
+		{
+			"name": "loadingBG",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"objects": [
+				{
+					"name": "spriteTP",
+					"x": 270,
+					"y": 480,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1.254,
+							"y": 1.254
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": null
+					},
+					"properties": {
+						"anchorPoint": "json:{\"x\":0,\"y\":0}",
+						"region": "loadingBG",
+						"texture": "LoadingAsset"
+					},
+					"propertytypes": {
+						"anchorPoint": "string",
+						"region": "string",
+						"texture": "string"
+					},
+					"__melonEditorLayerName": "loadingBG"
+				}
+			]
+		},
+		{
+			"name": "LoadingBar",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"name": "LoadingBar",
+					"x": 256,
+					"y": 539,
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 1,
+							"y": 1
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": 0
+					},
+					"properties": {},
+					"propertytypes": {},
+					"duplicateID": 1,
+					"__melonEditorLayerName": "LoadingBar"
+				}
+			]
+		},
+		{
+			"name": "logoGame",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"objects": [
+				{
+					"name": "spriteTP",
+					"x": 270,
+					"y": 365,
+					"rotation": 0,
+					"visible": true,
+					"zAnchor": 0,
+					"renderLayer": "world",
+					"inspectors": {
+						"alpha": 1,
+						"rotate": 0,
+						"scale": {
+							"x": 0.722,
+							"y": 0.722
+						},
+						"flip": {
+							"x": false,
+							"y": false
+						},
+						"z": null
+					},
+					"properties": {
+						"anchorPoint": "json:{\"x\":0,\"y\":0}",
+						"region": "logoGame",
+						"texture": "LoadingAsset"
+					},
+					"propertytypes": {
+						"anchorPoint": "string",
+						"region": "string",
+						"texture": "string"
+					},
+					"__melonEditorLayerName": "logoGame"
+				}
+			]
+		},
+		{
+			"name": "loadingText",
+			"type": "objectgroup",
+			"x": 0,
+			"y": 0,
+			"opacity": 1,
+			"visible": true,
+			"draworder": "topdown",
+			"objects": [
+				{
+					"x": "270",
+					"y": "504",
+					"rotation": 0,
+					"visible": true,
+					"renderLayer": "world",
+					"text": {
+						"text": "0%",
+						"pixelsize": 23,
+						"color": "#000000",
+						"fontfamily": "Super Bouncer",
+						"lineHeight": 1,
+						"wordWrapWidth": 64,
+						"wordWrapHeight": 32,
+						"rotation": 0,
+						"halign": "center",
+						"valign": "middle",
+						"bold": false,
+						"italic": false,
+						"scaleX": 1,
+						"scaleY": 1,
+						"alpha": 1
+					},
+					"__melonEditorLayerName": "loadingText"
+				}
+			]
+		}
+	]
+}
